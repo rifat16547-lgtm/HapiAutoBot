@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_desc">Reads the Hapi screen and taps the Go button next to Room ID.</string>
+</resources>
